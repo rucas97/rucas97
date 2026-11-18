@@ -8,15 +8,15 @@ Molecular geneticist and full stack developer. I analyze genomics data and build
 - **Wet lab:** PCR/qPCR, cloning, primer design, antibody production
 
 ## Featured work
-- **GenomicsOps**: offline ACMG/AMP variant classification, 95.8% agreement with ClinGen curators on 12,644 variants. [Preprint](https://doi.org/10.20944/preprints202610.0596.v1)
-- **SIMALR**: macrophage lncRNA at the TNFAIP3 locus encoding HLA class II-binding micropeptides in type 1 diabetes. [Preprint](https://doi.org/10.21203/rs.3.rs-11454023/v1)
-- **Android genomics tools:** [Chromatogram](https://github.com/rucas97/genomicsops-chromatogram) · [Plasmid](https://github.com/rucas97/genomicsops-plasmid) · [MolView](https://github.com/rucas97/genomicsops-molview)
-- **Primer design demo:** [primer-blast3-demo](https://github.com/rucas97/primer-blast3-demo)
+- **GenomicsOps**: offline ACMG/AMP variant classification, 95.8% agreement with ClinGen curators on 12,644 variants. [Preprint](https://doi.org/10.20944/preprints202610.0596.v1) · [Validation scripts and corpora](https://github.com/rucas97/genomicsops-validation)
+- **SIMALR**: macrophage lncRNA at the TNFAIP3 locus encoding HLA class II-binding micropeptides in type 1 diabetes. [Preprint](https://doi.org/10.21203/rs.3.rs-11454023/v1) · [R workflows](https://github.com/rucas97/T1D_DarkGenome)
+- **Autoimmune variant annotation:** [Python & Docker pipeline](https://github.com/rucas97/autoimmune-risk-variant-annotator) integrating GWAS statistics with ENCODE/RegulomeDB
+- **Android genomics tools:** [Chromatogram](https://github.com/rucas97/genomicsops-chromatogram) · [Plasmid](https://github.com/rucas97/genomicsops-plasmid) · [MolView](https://github.com/rucas97/genomicsops-molview) · [SeqOps](https://github.com/rucas97/genomicsops-seqops) · [IGV](https://github.com/rucas97/genomicsops-igv)
 
 ## Skills
 R · Python · Bioconductor · Kotlin · JavaScript/React · Node.js · PHP · Git
 
 ## Find me
-[Google Scholar](https://scholar.google.com/citations?user=RIBbslEAAAAJ) · [ORCID](https://orcid.org/0000-0003-2212-7646) · [X @RezTheSkeptic](https://x.com/RezTheSkeptic) · [LinkedIn](PASTE-YOUR-LINKEDIN-URL)
+[Google Scholar](https://scholar.google.com/citations?user=RIBbslEAAAAJ) · [ORCID](https://orcid.org/0000-0003-2212-7646) · [X @RezTheSkeptic](https://x.com/RezTheSkeptic)
 
-Message me on X or LinkedIn for collaborations and remote projects.
+Message me on X for collaborations and remote projects.
